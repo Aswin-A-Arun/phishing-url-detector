@@ -1,4 +1,4 @@
-# Phishing Website Detector
+# Phishing URL Detector
 
 A machine learning-based phishing URL detector built using Streamlit, Random Forest, XGBoost, and Groq LLM integration.
 
