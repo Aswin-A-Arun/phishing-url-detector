@@ -6,7 +6,7 @@ from sklearn.ensemble import RandomForestClassifier as RF
 from sklearn.metrics import accuracy_score
 from xgboost import XGBClassifier as xgb
 
-from llm_intergration import explain_url
+from llm_integration import explain_url
 from features import clean_url, extract_features
 
 from urllib.parse import urlparse
